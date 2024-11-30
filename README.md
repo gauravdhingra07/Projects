@@ -1,6 +1,6 @@
 # Projects
 <br />
-<br />
+
 ### Analysis of Customer Service Data using Microsoft Excel ( Nile iVision)  
 Examined iVision’s customer service data to derive insights on customer interactions, response times, and 
 satisfaction, contributing to strategy improvements for Nile.
